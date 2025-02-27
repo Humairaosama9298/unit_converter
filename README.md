@@ -6,8 +6,7 @@ This app allows users to **convert different units** like **length, weight, time
 ## 📌 Features
 ✅ Convert between **10+ essential unit categories**  
 ✅ Clean and user-friendly **UI with Streamlit**  
-✅ Instant conversion with a **single click**  
-✅ Works **directly in a web browser** – no installation needed!  
+✅ Instant conversion with a **single click**    
 
 ## Installation Guide
 
@@ -22,4 +21,5 @@ Once Python is installed, install Streamlit using pip:
 ```bash
 pip install streamlit
 
-✅ **Command to run Streamlit:** `streamlit run app.py`  
+```bash
+streamlit run app.py`  
