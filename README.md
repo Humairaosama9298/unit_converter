@@ -22,4 +22,4 @@ Once Python is installed, install Streamlit using pip:
 pip install streamlit
 
 ```bash
-streamlit run app.py`  
+streamlit run app.py 
